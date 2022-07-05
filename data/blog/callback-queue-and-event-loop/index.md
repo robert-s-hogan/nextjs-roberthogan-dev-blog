@@ -6,8 +6,6 @@ tags: ['js', 'event loop']
 draft: false
 ---
 
-Here is the example function I used for this post [Callback Queue and Event Loop Original](./2022-05-11_rshogan-dev.pdf).
-
 ```js
 function printHello() {
   console.log('Hello')
