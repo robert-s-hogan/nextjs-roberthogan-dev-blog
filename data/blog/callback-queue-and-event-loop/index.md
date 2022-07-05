@@ -22,31 +22,31 @@ console.log('Me First')
 
 First Line
 
-```js
+```js {1}
 function printHello() { ... }
 ```
 
 #1 Function is stored in the Global Memory to be called later
 
-```js
+```js {1}
 function blockFor1Sec() { ... }
 ```
 
 #2 printHello() Function is stored in the Global Memory to be called later
 
-```js
+```js {1}
 setTimeout(printHello, 0)
 ```
 
 #3 setTimeout is a Web Browser Feature called **Timer**. When called, the timer starts (0 in this case), and the browser waits for the time (in ms) to complete. Once complete, the function printHello() gets sent to the callback queue and waits for the event loop to send the function printHello() to the **call stack**.
 
-```js
+```js {1}
 blockFor1Sec() { ... }
 ```
 
 #4 function blockFor1Sec() is called from Global Memory to be added to the thread of execution. It takes 1000ms for the function blockFor1Sec() to be completed.
 
-```js
+```js {1}
 console.log('Me First')
 ```
 
