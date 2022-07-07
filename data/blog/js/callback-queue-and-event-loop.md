@@ -1,6 +1,6 @@
 ---
 title: Callback Queue and Event Loop
-date: '2022-05-11T20:12:03.284Z'
+date: '2022-05-11'
 summary: "This is a post on my understanding of JavaScript's runtime model based on an event loop and the order of processing events, and executing queued sub-tasks."
 tags: ['js', 'event loop']
 draft: false
