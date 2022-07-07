@@ -1,8 +1,8 @@
 ---
-title: Failed to load plugin @next/next declared in .eslintrc.json
+title: Failed to load plugin nextjs declared in .eslintrc.json
 date: '2022-07-01'
-summary: 'Here is how solve the Failed to load plugin '@next/next' declared in '.eslintrc.json » eslint-config-next/core-web-vitals » error while running yarn lint in nextjs'
-tags: ['nextjs', 'yarn', 'quick-fix']
+summary: 'Here is how solve the Failed to load plugin next/next declared in .eslintrc.json » eslint-config-next/core-web-vitals » error while running yarn lint in nextjs'
+tags: ['nextjs', 'yarn', 'fix']
 draft: true
 ---
 
