@@ -1,24 +1,10 @@
 ---
-title: How does chakra ui handle tailwind media queries (React)
-date: '2022-06-24'
-summary: 'Here is how I handled ChakraUI to create responsive sizes on ChakraUI components'
+title: How chakra ui handles Grid Column Span
+date: '2022-07-08'
+summary: 'Here is how I created a login page using ChakraUI to create responsive grid components'
 tags: ['react', 'chakraUI', 'TailwindCSS', 'guide']
 draft: false
 ---
-
-Here is the official ChakraUI link detailing what I am going to go over: (link)[https://chakra-ui.com/getting-started/comparison#responsive-styles-]
-
-There are two ways to create call the ChakraUI API:
-
-```js
-Array syntax: <Img w={[16, 32, 48]} src="...">
-```
-
-```js
-Object syntax: <Img w={{ base: 16, md: 32, lg: 48 }} src="..." />
-```
-
-## Other Examples
 
 ```js
 <Grid
@@ -72,16 +58,5 @@ Object syntax: <Img w={{ base: 16, md: 32, lg: 48 }} src="..." />
 </Grid>
 ```
 
-```js
-<Grid
-  h="100vh"
-  bg="yellow.100"
-  templateColumns={{ base: '1fr', lg: '4em 3fr 2fr 4em' }}
-  templateRows={{ base: '2fr 2fr 1fr 1.5fr 0.5fr', lg: '1fr 3fr 2fr 0.5fr' }}
->
-  Content
-</Grid>
-```
-
-SEO: grid template columsn responsive chakraui
-source: https://github.com/chakra-ui/chakra-ui/discussions/2781#discussioncomment-206491
+SEO: grid span chakrui ui
+Source: https://chakra-ui.com/docs/components/grid#spanning-columns
