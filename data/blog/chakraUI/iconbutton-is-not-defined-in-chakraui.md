@@ -2,7 +2,7 @@
 title: ReferenceError IconButton is not defined in chakraui
 date: '2022-07-20'
 summary: 'Here is how I handled ChakraUI to create responsive sizes on ChakraUI components'
-tags: ['react', 'chakraUI', 'react-icons', 'guide']
+tags: ['react', 'chakraUI', 'react-icons', 'fix']
 draft: false
 ---
 

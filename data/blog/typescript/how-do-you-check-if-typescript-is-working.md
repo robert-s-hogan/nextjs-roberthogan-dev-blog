@@ -2,7 +2,7 @@
 title: How do you check if typescript is working
 date: '2022-06-16'
 summary: 'Here is how I verify typescript is working'
-tags: ['typescript', 'guide']
+tags: ['typescript', 'install', 'fix']
 draft: false
 ---
 
