@@ -542,3 +542,67 @@ https://github.com/prisma/prisma/discussions/3057
 https://github.com/microsoft/vscode-eslint/issues/908
 
 https://stackoverflow.com/questions/66739797/how-to-handle-a-post-request-in-next-js
+
+session create object stripe
+https://stripe.com/docs/api/checkout/sessions/create
+https://stripe.com/docs/api/checkout/sessions/create#create_checkout_session-payment_method_options-acss_debit-currency
+https://stripe.com/docs/api/errors#errors-payment_intent-currency
+
+https://github.com/vercel/next.js/tree/canary/examples/with-stripe-typescript/pages
+https://github.com/vercel/next.js/blob/canary/examples/with-stripe-typescript/components/CheckoutForm.tsx
+
+add address stripe elements react
+https://stackoverflow.com/questions/67372386/stripe-collect-customer-billing-address-and-calculate-tax-dynamically
+
+confirm payment intent stripe
+https://stripe.com/docs/api/payment_intents/create
+
+Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports. form react
+https://bobbyhadz.com/blog/react-element-type-is-invalid-expected-string-but-got#:~:text=To%20solve%20the%20error%20%22Element,functions%20or%20classes%20as%20components.
+
+The specified value "NaN" does not conform to the required format, "yyyy-MM-dd". antd react
+https://stackoverflow.com/questions/39969570/deprecation-warning-in-moment-js-not-in-a-recognized-iso-format
+https://ant.design/components/date-picker/
+
+type error: date.clone is not a fucntion
+https://stackoverflow.com/questions/45113606/moment-on-datepicker-react-component
+
+The specified value "mm/dd/yyyy" does not conform to the required format, "yyyy-MM-dd". antd
+https://stackoverflow.com/questions/6177975/how-to-validate-date-with-format-mm-dd-yyyy-in-javascript
+
+restricting date format input
+https://stackoverflow.com/questions/23671407/restrict-future-dates-in-html5-date-input
+
+today's date using new date mm/dd/yyyy format react
+https://stackoverflow.com/questions/45547166/how-to-get-dd-mm-yyyy-format-date
+
+converting yyyymmdd to mm/dd/yyyy react
+https://stackoverflow.com/questions/63569985/how-to-convert-data-yyyy-mm-dd-to-dd-mm-yyyy-in-reactjs
+
+https://momentjs.com/
+
+input date format
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/date
+
+react date format mm/dd/yyyy
+https://www.reactshark.com/blog/guide-react-date-format
+
+date js change format
+https://code.tutsplus.com/tutorials/how-to-change-the-date-format-in-javascript--cms-39400
+
+date js change format
+https://stackoverflow.com/questions/8040771/how-to-change-date-format-in-javascript
+
+https://stackoverflow.com/questions/49277112/react-js-how-to-set-a-default-value-for-input-date-type
+
+remove from cart redux toolkit
+https://stackoverflow.com/questions/71310676/remove-product-from-redux-shopping-cart
+
+accessing an array of objects
+https://stackoverflow.com/questions/11922383/how-can-i-access-and-process-nested-objects-arrays-or-json
+
+addToCart slice redux toolkit typescript
+https://stackoverflow.com/questions/68326030/redux-toolkit-type-error-unit-is-read-only
+
+https://github.com/bwymedia/catalog-web/tree/master/src/features/cart
+https://github.com/bwymedia/catalog-web/blob/master/src/features/cart/cartSlice.tsx
