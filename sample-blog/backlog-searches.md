@@ -606,3 +606,29 @@ https://stackoverflow.com/questions/68326030/redux-toolkit-type-error-unit-is-re
 
 https://github.com/bwymedia/catalog-web/tree/master/src/features/cart
 https://github.com/bwymedia/catalog-web/blob/master/src/features/cart/cartSlice.tsx
+
+TypeError: Cannot read property 'getState' of undefined redux toolkit
+https://stackoverflow.com/questions/69156907/%C3%97-typeerror-cannot-read-properties-of-undefined-reading-getstate
+
+Could not find icon null nextjs
+https://stackoverflow.com/questions/48002619/cound-not-find-icon-react-fontawesome
+
+Use custom middleware for async actions.
+https://blog.logrocket.com/async-actions-bare-redux-thunk-custom-middleware/
+
+Error: Actions must be plain objects. Use custom middleware for async actions.
+https://stackoverflow.com/questions/50059724/how-do-i-resolve-actions-must-be-plain-objects-use-custom-middleware-for-async
+
+redux toolkit submit form data empty
+https://stackoverflow.com/questions/52989915/validation-not-to-submit-an-empty-object-with-form-redux
+
+using reducers
+https://redux.js.org/tutorials/fundamentals/part-3-state-actions-reducers
+
+TypeError: e.preventDefault is not a function
+https://stackoverflow.com/questions/36034493/typeerror-e-preventdefault-is-not-a-function
+
+antd modal size
+https://ant.design/components/modal/
+https://stackoverflow.com/questions/62242359/use-different-sizes-of-antd-modal
+https://ant.design/components/layout/
