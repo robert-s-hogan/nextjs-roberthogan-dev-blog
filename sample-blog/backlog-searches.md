@@ -632,3 +632,44 @@ antd modal size
 https://ant.design/components/modal/
 https://stackoverflow.com/questions/62242359/use-different-sizes-of-antd-modal
 https://ant.design/components/layout/
+
+js swtich statement less numbers
+https://stackoverflow.com/questions/6665997/switch-statement-for-greater-than-less-than
+
+TypeError: (0 , \_features_encounterSlice**WEBPACK_IMPORTED_MODULE_10**.setEncounterInformation) is not a function
+https://stackoverflow.com/questions/61388663/typeerror-react-webpack-imported-module-0-default-is-not-a-function
+
+redux toolkit object initialstate
+https://www.youtube.com/watch?v=k68j9xlbHHk
+
+how do you ignore null entries react conditional rendering
+https://tailwindcss.com/docs/gap
+
+401 post error stripe react
+https://stackoverflow.com/questions/53709534/401-error-when-sending-data-to-stripe-customers-api
+
+Type error: Type '{}' is missing the following properties from type 'Props': data, success
+https://bobbyhadz.com/blog/react-type-is-missing-the-following-properties-from-type#:~:text=js%20error%20%22Type%20is%20missing,are%20required%20in%20the%20component.
+
+Type error: Property 'data' does not exist on type 'Response'.
+https://bobbyhadz.com/blog/typescript-property-does-not-exist-on-type-request#:~:text=The%20%22Property%20does%20not%20exist,access%20on%20the%20request%20object.
+
+Type error: Property 'data' does not exist on type 'Response'.
+https://bobbyhadz.com/blog/typescript-property-does-not-exist-on-type-request#:~:text=The%20%22Property%20does%20not%20exist,access%20on%20the%20request%20object.
+
+Type error: Property 'id' does not exist on type 'string'.
+https://bobbyhadz.com/blog/typescript-property-does-not-exist-on-type-string#:~:text=The%20%22Property%20does%20not%20exist,in%20method%20on%20the%20string.
+
+Type error: Type '{ items: undefined[]; }' is not assignable to type 'CartState'. typescript
+https://bobbyhadz.com/blog/typescript-type-undefined-is-not-assignable-to-type
+
+Type error: Argument of type 'Drop' is not assignable to parameter of type '{ id: number; name: string; }'.
+https://stackoverflow.com/questions/69248958/error-argument-of-type-item-is-not-assignable-to-parameter-of-type-string-t
+
+POST https://api.stripe.com/v1/payment_methods 401
+https://stackoverflow.com/questions/53709534/401-error-when-sending-data-to-stripe-customers-api
+
+Stripe elements configuration
+stripe elements with custom fields
+https://github.com/leighhalliday/react-stripe-elements-demo/blob/master/pages/api/charge.js
+https://www.youtube.com/watch?v=WTUYem2IxLA
