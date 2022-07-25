@@ -673,3 +673,32 @@ Stripe elements configuration
 stripe elements with custom fields
 https://github.com/leighhalliday/react-stripe-elements-demo/blob/master/pages/api/charge.js
 https://www.youtube.com/watch?v=WTUYem2IxLA
+
+reload next page
+https://stackoverflow.com/questions/53739908/trigger-client-side-reload-in-next-js
+
+antd form reload
+https://stackoverflow.com/questions/66876970/using-onfinish-of-the-form-antd-to-push-to-the-same-pathpreventing-to-push
+
+redux check if item exists in cart
+https://stackoverflow.com/questions/70723841/check-if-item-already-exists-in-cart-when-adding-react
+
+nextjs only showing item on a specific page
+https://stackoverflow.com/questions/67663919/how-to-hide-header-only-at-one-page-in-nextjs-app
+
+math format js two decimal places
+https://stackoverflow.com/questions/15762768/javascript-math-round-to-two-decimal-places
+
+react library that allows you to click and remove
+
+creating a on click that removes element react
+https://stackoverflow.com/questions/44988996/react-removing-an-element-when-onclick/44989592#44989592
+
+math format with commas js
+https://stackoverflow.com/questions/2901102/how-to-print-a-number-with-commas-as-thousands-separators-in-javascript
+
+random dnd scene description
+https://www.reddit.com/r/mattcolville/comments/7dq7bh/wilderness_description_generator/
+https://donjon.bin.sh/fantasy/random/#type=location;loc-type=Wilderness
+https://uxpamagazine.org/mad-libs-for-designers/
+https://thealpinedm.com/how-to-describe-a-scene-easiest-way/
