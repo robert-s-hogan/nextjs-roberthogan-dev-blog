@@ -702,3 +702,66 @@ https://www.reddit.com/r/mattcolville/comments/7dq7bh/wilderness_description_gen
 https://donjon.bin.sh/fantasy/random/#type=location;loc-type=Wilderness
 https://uxpamagazine.org/mad-libs-for-designers/
 https://thealpinedm.com/how-to-describe-a-scene-easiest-way/
+
+nextjs priority image
+https://nextjs.org/docs/api-reference/next/image
+
+git push fast forward to github
+https://stackoverflow.com/questions/20467179/git-push-rejected-non-fast-forward
+
+ror - ESLint: Failed to load config "prettier" to extend from. Refere
+https://stackoverflow.com/questions/61597932/eslint-couldnt-find-the-config-prettier-to-extend-from
+
+chakraui link nextjs
+https://jools.dev/using-nextjs-link-with-chakra-ui-link
+
+linking internal files in nextjs
+https://nextjs.org/docs/api-reference/next/link
+
+using chakraui with nextjs link
+https://www.bharathikannan.com/blog/use-next-link-with-chakra-ui
+https://stackoverflow.com/questions/66421459/warning-function-components-cannot-be-given-refs
+https://stackoverflow.com/questions/56484686/how-do-i-avoid-function-components-cannot-be-given-refs-when-using-react-route
+
+roll back local to speciic commit
+https://stackoverflow.com/questions/4114095/how-do-i-revert-a-git-repository-to-a-previous-commit
+
+git reset local
+https://stackoverflow.com/questions/1628088/reset-local-repository-branch-to-be-just-like-remote-repository-head
+
+nextjs hot reloading not working
+https://stackoverflow.com/questions/61033562/hot-module-reload-is-not-working-on-my-nextjs-app
+
+nextjs not hot reloading pnpm
+https://github.com/vercel/next.js/issues/35518
+
+.map typescript react
+https://stackoverflow.com/questions/64542300/display-array-data-through-map-in-react-typescript
+
+Type error: Property 'image' does not exist on type '{ name: string; }'.
+https://bobbyhadz.com/blog/typescript-property-does-not-exist-on-type#:~:text=The%20%22Property%20does%20not%20exist,type%20with%20variable%20key%20names.&text=Copied!
+
+error - ESLint: Plugin "import" was conflicted between ".eslintrc.json »
+https://stackoverflow.com/questions/72570845/plugin-react-was-conflicted-between-eslintrc-js-and-baseconfig
+
+nextjs typed api
+https://nextjs.org/docs/basic-features/typescript
+
+Minified React error #418; nextjs
+https://github.com/vercel/next.js/discussions/13439
+https://reactjs.org/docs/error-decoder.html/?invariant=418
+
+Type error: Object is possibly 'null'.
+https://bobbyhadz.com/blog/typescript-object-is-possibly-null#:~:text=The%20%22Object%20is%20possibly%20'null,not%20null%20before%20accessing%20properties.
+
+Hydration failed because the initial UI does not match what was rendered on the server.
+https://stackoverflow.com/questions/71706064/react-18-hydration-failed-because-the-initial-ui-does-not-match-what-was-render
+
+(node:14188) ExperimentalWarning: The Fetch API is an experimental feature. This feature could change at any time (Use `node --trace-warnings ...` to show where the warning was created)
+https://github.com/localtunnel/localtunnel/issues/490
+
+(node:14547) ExperimentalWarning:
+https://stackoverflow.com/questions/55778283/how-to-disable-warnings-when-node-is-launched-via-a-global-shell-script
+
+git delete branch
+https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/delete-local-git-branch-origin-force-merge-all#:~:text=The%20command%20to%20delete%20a%20local%20git%20branch%20can%20take,git%20branch%20%2Dd%20old%2Dbranch
