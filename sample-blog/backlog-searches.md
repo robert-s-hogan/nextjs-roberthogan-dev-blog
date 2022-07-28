@@ -765,3 +765,29 @@ https://stackoverflow.com/questions/55778283/how-to-disable-warnings-when-node-i
 
 git delete branch
 https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/delete-local-git-branch-origin-force-merge-all#:~:text=The%20command%20to%20delete%20a%20local%20git%20branch%20can%20take,git%20branch%20%2Dd%20old%2Dbranch
+
+IntegrationError: stripe.redirectToCheckout: You must provide one of lineItems, items, or sessionId. stripe checkout reasct
+https://stackoverflow.com/questions/59403238/stripe-has-problem-uncaught-integrationerror-stripe-redirecttocheckout-invali
+
+Type error: Object is possibly 'null'. 40 | }).then((res) => res.json()); 41 | const stripe = await stripePromise; > 42 | const { error } = await stripe.redirectToCheckout({
+https://stackoverflow.com/questions/68108466/how-can-i-fix-my-stripe-redirecttocheckout-integration-error
+
+Type error: Object is possibly 'null'. stripe checkout
+https://stackoverflow.com/questions/64779538/stripejs-props-object-is-giving-me-an-error-message-object-is-possibly-null-wh
+https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/react-stripe-elements/index.d.ts#L76
+https://stackoverflow.com/questions/55677600/typescript-how-to-pass-object-is-possibly-null-error
+
+The 'URLSearchParams' is not supported until Node.js 10.0.0. The configured version range is '>=8.0.0'
+https://stackoverflow.com/questions/47266550/how-to-use-global-urlsearchparams-in-node
+
+URLSearchParams nextjs
+https://stackoverflow.com/questions/43862600/how-can-i-get-query-string-parameters-from-the-url-in-next-js
+
+URLSearchParams nextjs 12 equivalent
+https://stackoverflow.com/questions/43862600/how-can-i-get-query-string-parameters-from-the-url-in-next-js
+
+blog slugs nextjs from api
+https://aqandrew.com/blog/dynamic-routing-in-nextjs/
+
+x Unexpected token `div`. Expected jsx identifier
+https://stackoverflow.com/questions/41815758/react-unexpected-token-expected
